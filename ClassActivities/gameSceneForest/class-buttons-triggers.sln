@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0CEAF28B-9924-05D1-A8B1-B65641157EEC}") = "class-buttons-triggers", "Assembly-CSharp-firstpass.csproj", "{B4D3E564-D8F6-E9C6-F0C7-0CACA2775797}"
+EndProject
+Project("{0CEAF28B-9924-05D1-A8B1-B65641157EEC}") = "class-buttons-triggers", "Assembly-CSharp-Editor-firstpass.csproj", "{E1EB3390-B075-2744-05F8-8D0A43117EF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D3E564-D8F6-E9C6-F0C7-0CACA2775797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D3E564-D8F6-E9C6-F0C7-0CACA2775797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D3E564-D8F6-E9C6-F0C7-0CACA2775797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D3E564-D8F6-E9C6-F0C7-0CACA2775797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1EB3390-B075-2744-05F8-8D0A43117EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EB3390-B075-2744-05F8-8D0A43117EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EB3390-B075-2744-05F8-8D0A43117EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EB3390-B075-2744-05F8-8D0A43117EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
