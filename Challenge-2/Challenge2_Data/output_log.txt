@@ -1,0 +1,150 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M                  (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1996 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.426 seconds
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DavidJireh\Documents\Unity Games\Challenge 2\Challenge2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.441196 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2078 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.004413 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 6.543972 ms (FindLiveObjects: 0.035067 ms CreateObjectMapping: 0.024376 ms MarkObjects: 0.235637 ms  DeleteObjects: 6.248035 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.576906 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 367.
+Total: 2.932856 ms (FindLiveObjects: 0.035922 ms CreateObjectMapping: 0.025231 ms MarkObjects: 0.281824 ms  DeleteObjects: 2.566783 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.718887 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 920.
+Total: 10.309472 ms (FindLiveObjects: 0.076122 ms CreateObjectMapping: 0.052173 ms MarkObjects: 0.390021 ms  DeleteObjects: 9.790727 ms)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentOutOfRangeException: startIndex + length > this.length
+Parameter name: length
+  at System.String.Substring (Int32 startIndex, Int32 length) [0x00000] in <filename unknown>:0 
+  at Movement.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 20.671547 ms
+
+Unloading 336 unused Assets to reduce memory usage. Loaded Objects now: 375.
+Total: 10.429214 ms (FindLiveObjects: 0.055595 ms CreateObjectMapping: 0.050463 ms MarkObjects: 0.291660 ms  DeleteObjects: 10.030212 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.810405 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 922.
+Total: 7.026367 ms (FindLiveObjects: 0.124875 ms CreateObjectMapping: 0.077405 ms MarkObjects: 0.455452 ms  DeleteObjects: 6.366495 ms)
+
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.281103 ms
+
+Unloading 336 unused Assets to reduce memory usage. Loaded Objects now: 336.
+Total: 12.732136 ms (FindLiveObjects: 0.064575 ms CreateObjectMapping: 0.055595 ms MarkObjects: 0.263007 ms  DeleteObjects: 12.348103 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.597433 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 372.
+Total: 0.947255 ms (FindLiveObjects: 0.049607 ms CreateObjectMapping: 0.050463 ms MarkObjects: 0.456307 ms  DeleteObjects: 0.389165 ms)
+
